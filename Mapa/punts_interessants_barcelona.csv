@@ -1,0 +1,21 @@
+pais;codi;ciutat;tipus;nom;direcció;latitud;longitud;horaris;preu;descripcio;puntuacio;moneda
+Espanya;ESP;Barcelona;Atraccio;Sagrada Família;Carrer de Mallorca, 401;41.4036;2.1744;09:00-18:00;26.0;Basílica dissenyada per Antoni Gaudí, símbol de Barcelona.;4.8;€
+Espanya;ESP;Barcelona;Atraccio;Park Güell;Carrer d'Olot, s/n;41.4135;2.1525;08:00-21:30;10.0;Parc amb obres de Gaudí i vistes espectaculars de la ciutat.;4.7;€
+Espanya;ESP;Barcelona;Atraccio;Casa Batlló;Passeig de Gràcia, 43;41.3917;2.1651;09:00-21:00;35.0;Edifici modernista de Gaudí amb una façana única.;4.6;€
+Espanya;ESP;Barcelona;Atraccio;La Pedrera;Provença, 261-265;41.3954;2.1619;09:00-20:30;25.0;Casa modernista de Gaudí amb una terrassa impressionant.;4.5;€
+Espanya;ESP;Barcelona;Espai;Plaça de Catalunya;Plaça de Catalunya;41.3870;2.1686;24/7;0.0;Plaça central de Barcelona, punt de trobada i zona comercial.;4.4;€
+Espanya;ESP;Barcelona;Espai;Barri Gòtic;Carrer del Bisbe;41.3834;2.1766;24/7;0.0;Barri històric amb carrers estrets i arquitectura medieval.;4.6;€
+Espanya;ESP;Barcelona;Espai;Barceloneta Beach;Passeig Marítim de la Barceloneta;41.3784;2.1947;24/7;0.0;Platja urbana popular amb restaurants i activitats.;4.3;€
+Espanya;ESP;Barcelona;Atraccio;Castell de Montjuïc;Carretera de Montjuïc, 66;41.3636;2.1667;10:00-20:00;5.0;Castell amb vistes panoràmiques de Barcelona.;4.2;€
+Espanya;ESP;Barcelona;Espai;Parc de la Ciutadella;Passeig de Picasso, s/n;41.3881;2.1875;10:00-22:30;0.0;Parc amb llac, escultures i el Parlament de Catalunya.;4.5;€
+Espanya;ESP;Barcelona;Museu;Museu Picasso;Carrer Montcada, 15-23;41.3852;2.1807;09:00-19:00;12.0;Museu dedicat a les obres de Pablo Picasso.;4.7;€
+Espanya;ESP;Barcelona;Espai;Mercat de la Boqueria;La Rambla, 91;41.3817;2.1716;08:00-20:30;0.0;Mercat tradicional amb una gran varietat de productes frescos.;4.6;€
+Espanya;ESP;Barcelona;Espai;Santa Maria del Mar;Plaça de Santa Maria, 1;41.3839;2.1822;09:00-20:30;0.0;Església gòtica del segle XIV, coneguda per la seva bellesa arquitectònica.;4.5;€
+Espanya;ESP;Barcelona;Museu;Museu Nacional d'Art de Catalunya (MNAC);Parc de Montjuïc;41.3686;2.1536;10:00-18:00;12.0;Museu que alberga una col·lecció impressionant d'art català.;4.6;€
+Espanya;ESP;Barcelona;Atraccio;Parc del Laberint d'Horta;Passeig dels Castanyers, 1;41.4386;2.1456;10:00-20:00;2.23;Parc històric amb un laberint de vegetació i jardins romàntics.;4.4;€
+Espanya;ESP;Barcelona;Espai;Arc de Triomf;Passeig de Lluís Companys;41.3911;2.1803;24/7;0.0;Arc de triomf construït com a entrada a l'Exposició Universal de 1888.;4.3;€
+Espanya;ESP;Barcelona;Museu;Fundació Joan Miró;Parc de Montjuïc;41.3683;2.1597;10:00-18:00;13.0;Museu dedicat a l'art de Joan Miró, amb obres modernes i contemporànies.;4.5;€
+Espanya;ESP;Barcelona;Atraccio;Camp Nou;Carrer d'Aristides Maillol, 12;41.3809;2.1228;10:00-18:00;28.0;Estadi del FC Barcelona, un dels més grans del món.;4.7;€
+Espanya;ESP;Barcelona;Atraccio;Torre Glòries;Avinguda Diagonal, 211;41.4031;2.1897;10:00-19:00;15.0;Torre icònica de Barcelona amb vistes panoràmiques de la ciutat.;4.4;€
+Espanya;ESP;Barcelona;Espai;Parc de Montjuïc;Avinguda de l'Estadi, 60;41.3636;2.1667;24/7;0.0;Parc urbà amb jardins, Museus i vistes espectaculars de Barcelona.;4.5;€
+Espanya;ESP;Barcelona;Museu;CosmoCaixa;Carrer d'Isaac Newton, 26;41.4117;2.1306;10:00-20:00;6.0;Museu de la ciència amb exposicions interactives per a totes les edats.;4.6;€
